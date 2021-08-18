@@ -1,0 +1,13 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 20% 20% 60%;
+    background-color: azure;
+    border: 1px dashed slateblue;
+}
+
+.grid-item{
+    background-color: sandybrown;
+    color: aquamarine;
+    text-align: center;
+    margin: 2px;
+}
